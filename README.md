@@ -1,8 +1,3 @@
-Here is a **revised, complete, and recruiter-ready README.md** that **adds the honeypot component** and clearly ties together **SIEM + Cloud + Honeypot + Detections + KQL + $0 cost**.
-You can paste this **as-is** into GitHub.
-
----
-
 # Microsoft Sentinel SIEM + Honeypot Lab (Zero-Cost Cloud Deployment)
 
 ## Overview
